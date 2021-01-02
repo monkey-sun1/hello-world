@@ -1,2 +1,4 @@
 # hello-world
-code
+void judge(algraph* g)
+arcnode *g
+
